@@ -1,0 +1,760 @@
+{
+  "arun": {
+    "title": "arun",
+    "password": "des",
+    "bodyWeight": 23
+  },
+  "sunny": {
+    "title": "sunny",
+    "password": "koli",
+    "bodyWeight": 142,
+    "exerciseHand": "Maintain Body Fat/Increase Muscle",
+    "lifestyleListHand": "Moderate/Active",
+    "exerciseHandAct": "No Exercise"
+  },
+  "tejaswini": {
+    "title": "tejaswini",
+    "password": "patil",
+    "bodyWeight": 567
+  },
+  "manoj": {
+    "title": "manoj",
+    "password": "bad",
+    "bodyWeight": 150,
+    "exerciseHand": 10,
+    "lifestyleListHand": 5,
+    "weightHand": 0,
+    "lowCardioHand": 0,
+    "highCardioHand": 0,
+    "calorie": 165
+  },
+  "kabir": {
+    "title": "kabir",
+    "password": "bedi",
+    "bodyWeight": 150,
+    "maintainGainLose": 10,
+    "lifeStyle": 5,
+    "weightTrainingMinutes": 0,
+    "lowCardioMinutes": 0,
+    "highCardioMinutes": 0,
+    "calorie": 2250
+  },
+  "bangor": {
+    "title": "bangor",
+    "password": "uni",
+    "bodyWeight": 234,
+    "maintainGainLose": 6,
+    "lifeStyle": 10,
+    "weightTrainingMinutes": 0,
+    "lowCardioMinutes": 0,
+    "highCardioMinutes": 0,
+    "calorie": 3744
+  },
+  "digvijay": {
+    "title": "digvijay",
+    "password": "singh",
+    "bodyWeight": 234,
+    "maintainGainLose": 10,
+    "lifeStyle": 5,
+    "weightTrainingMinutes": 0,
+    "lowCardioMinutes": 0,
+    "highCardioMinutes": 0,
+    "calorie": 3510
+  },
+  "cardiff": {
+    "title": "cardiff",
+    "password": "uni",
+    "bodyWeight": 234,
+    "maintainGainLose": 10,
+    "lifeStyle": 3,
+    "weightTrainingMinutes": 0,
+    "lowCardioMinutes": 0,
+    "highCardioMinutes": 0,
+    "calorie": 3042
+  },
+  "ian": {
+    "title": "ian",
+    "password": "hatt",
+    "bodyWeight": 345,
+    "maintainGainLose": 10,
+    "lifeStyle": 10,
+    "weightTrainingMinutes": 0,
+    "lowCardioMinutes": 0,
+    "highCardioMinutes": 0,
+    "calorie": 6900
+  },
+  "new": {
+    "title": "new",
+    "password": "day",
+    "bodyWeight": 163,
+    "maintainGainLose": 7,
+    "lifeStyle": 3,
+    "weightTrainingMinutes": 25,
+    "lowCardioMinutes": 0,
+    "highCardioMinutes": 0,
+    "calorie": 1880
+  },
+  "big": {
+    "title": "big",
+    "password": "show"
+  },
+  "bhakti": {
+    "title": "bhakti",
+    "password": "park",
+    "bodyWeight": 345,
+    "maintainGainLose": 13,
+    "lifeStyle": 10,
+    "weightTrainingMinutes": 0,
+    "lowCardioMinutes": 0,
+    "highCardioMinutes": 0,
+    "calorie": 7935
+  },
+  "complex": {
+    "title": "complex",
+    "password": "day",
+    "bodyWeight": 234,
+    "maintainGainLose": 10,
+    "lifeStyle": 5,
+    "weightTrainingMinutes": 0,
+    "lowCardioMinutes": 0,
+    "highCardioMinutes": 0,
+    "calorie": 3510
+  },
+  "maan": {
+    "title": "maan",
+    "password": "singh"
+  },
+  "diksha": {
+    "title": "diksha",
+    "password": "dix"
+  },
+  "hare": {
+    "title": "hare",
+    "password": "krishna",
+    "bodyWeight": 163,
+    "maintainGainLose": 7,
+    "lifeStyle": 5,
+    "weightTrainingMinutes": 0,
+    "lowCardioMinutes": 0,
+    "highCardioMinutes": 0,
+    "calorie": 1956
+  },
+  "man": {
+    "title": "man",
+    "password": "moon",
+    "carbohydrates": [
+      {
+        "food": "apple",
+        "perHundred": 25,
+        "quantityInHand": 20
+      },
+      {
+        "food": "pineapple",
+        "perHundred": 34,
+        "quantityInHand": 100
+      },
+      {
+        "food": "basmati",
+        "perHundred": 40,
+        "quantityInHand": 50
+      },
+      {
+        "food": "chickoo",
+        "perHundred": 85,
+        "quantityInHand": 40
+      },
+      {
+        "food": "jeera",
+        "perHundred": 20,
+        "quantityInHand": 5
+      },
+      {
+        "food": "jam",
+        "perHundred": 75,
+        "quantityInHand": 20
+      },
+      {
+        "food": "banana",
+        "perHundred": 6.666666666666667,
+        "quantityInHand": 30
+      },
+      {
+        "food": "butter",
+        "perHundred": 20,
+        "quantityInHand": 5
+      },
+      {
+        "food": "baegal",
+        "perHundred": 92,
+        "quantityInHand": 25
+      },
+      {
+        "food": "jhunka ",
+        "perHundred": 67.6470588235294,
+        "quantityInHand": 34
+      },
+      {
+        "food": "pineapple",
+        "perHundred": 33,
+        "quantityInHand": 100
+      },
+      {
+        "food": "jhunka ",
+        "perHundred": 94.11764705882354,
+        "quantityInHand": 34
+      }
+    ],
+    "proteins": [],
+    "fats": [],
+    "bodyWeight": 163,
+    "maintainGainLose": 10,
+    "lifeStyle": 3,
+    "weightTrainingMinutes": 0,
+    "lowCardioMinutes": 0,
+    "highCardioMinutes": 0,
+    "calorie": 2119
+  },
+  "baron": {
+    "title": "baron",
+    "password": "trump",
+    "carbohydrates": [
+      {
+        "food": "wadapav",
+        "nutInHand": 5,
+        "quantityInHand": 10,
+        "nutPerHundred": 50
+      },
+      {
+        "food": "wadapav",
+        "nutInHand": 6,
+        "quantityInHand": 10,
+        "nutPerHundred": 60
+      },
+      {
+        "food": "gelatino",
+        "nutInHand": 5,
+        "quantityInHand": 10,
+        "nutPerHundred": 50
+      },
+      {
+        "food": "gelatino",
+        "nutInHand": 6,
+        "quantityInHand": 10,
+        "nutPerHundred": 60
+      },
+      {
+        "food": "gavin",
+        "nutInHand": 2,
+        "quantityInHand": 10,
+        "nutPerHundred": 20
+      }
+    ],
+    "proteins": [
+      {
+        "food": "wadapav",
+        "nutInHand": 3,
+        "quantityInHand": 10,
+        "nutPerHundred": 30
+      }
+    ],
+    "fats": [
+      {
+        "food": "wadapav",
+        "nutInHand": 5,
+        "quantityInHand": 10,
+        "nutPerHundred": 50
+      }
+    ],
+    "bodyWeight": 150,
+    "maintainGainLose": 10,
+    "lifeStyle": 3,
+    "weightTrainingMinutes": 0,
+    "lowCardioMinutes": 0,
+    "highCardioMinutes": 0,
+    "calorie": 1950
+  },
+  "dex": {
+    "title": "dex",
+    "password": "ter",
+    "carbohydrates": [
+      {
+        "food": "ice cream",
+        "nutInHand": 6,
+        "quantityInHand": 10,
+        "nutPerHundred": 60
+      },
+      {
+        "food": "banana",
+        "nutInHand": 5,
+        "quantityInHand": 8,
+        "nutPerHundred": 62.5
+      },
+      {
+        "food": "jelly",
+        "nutInHand": 6,
+        "quantityInHand": 5,
+        "nutPerHundred": 120
+      },
+      {
+        "food": "milk",
+        "nutInHand": 7,
+        "quantityInHand": 10,
+        "nutPerHundred": 70
+      },
+      {
+        "food": "pascal",
+        "nutInHand": 5,
+        "quantityInHand": 15,
+        "nutPerHundred": 33.333333333333336
+      },
+      {
+        "food": "pasta",
+        "nutInHand": 4,
+        "quantityInHand": 10,
+        "nutPerHundred": 40
+      },
+      {
+        "food": "raisin and almond granola",
+        "nutInHand": 85.01,
+        "quantityInHand": 135,
+        "nutPerHundred": 62.97037037037037
+      },
+      {
+        "food": "pains au chocolat",
+        "nutInHand": 22.56,
+        "quantityInHand": 48,
+        "nutPerHundred": 47
+      },
+      {
+        "food": "almonds",
+        "nutInHand": 1,
+        "quantityInHand": 30,
+        "nutPerHundred": 3.3333333333333335
+      },
+      {
+        "food": "mixed nuts",
+        "nutInHand": 6,
+        "quantityInHand": 100,
+        "nutPerHundred": 6
+      },
+      {
+        "food": "whole west country milk",
+        "nutInHand": 9.2,
+        "quantityInHand": 184,
+        "nutPerHundred": 4.999999999999999
+      },
+      {
+        "food": "cashews",
+        "nutInHand": 3,
+        "quantityInHand": 15,
+        "nutPerHundred": 20
+      },
+      {
+        "food": "eggs",
+        "nutInHand": 0,
+        "quantityInHand": 62,
+        "nutPerHundred": 0
+      },
+      {
+        "food": "egg white",
+        "nutInHand": 0,
+        "quantityInHand": 100,
+        "nutPerHundred": 0
+      },
+      {
+        "food": "Flour",
+        "nutInHand": 65,
+        "quantityInHand": 100,
+        "nutPerHundred": 65
+      },
+      {
+        "food": "Pickle",
+        "nutInHand": 15,
+        "quantityInHand": 100,
+        "nutPerHundred": 15
+      },
+      {
+        "food": "flour",
+        "nutInHand": 34.45,
+        "quantityInHand": 53,
+        "nutPerHundred": 65.00000000000001
+      },
+      {
+        "food": "pickle",
+        "nutInHand": 0.6,
+        "quantityInHand": 4,
+        "nutPerHundred": 15
+      },
+      {
+        "food": "rice",
+        "nutInHand": 50.56,
+        "quantityInHand": 60,
+        "nutPerHundred": 84.26666666666667
+      },
+      {
+        "food": "carrot",
+        "nutInHand": 5.16,
+        "quantityInHand": 86,
+        "nutPerHundred": 6
+      },
+      {
+        "food": "kiwi",
+        "nutInHand": 9,
+        "quantityInHand": 61,
+        "nutPerHundred": 14.754098360655737
+      },
+      {
+        "food": "sugar",
+        "nutInHand": 3,
+        "quantityInHand": 3,
+        "nutPerHundred": 100
+      },
+      {
+        "food": "skimmed west country milk ",
+        "nutInHand": 10,
+        "quantityInHand": 200,
+        "nutPerHundred": 5
+      },
+      {
+        "food": "tuna steaks with a little brine",
+        "nutInHand": 0,
+        "quantityInHand": 34,
+        "nutPerHundred": 0
+      },
+      {
+        "food": "pineapple",
+        "nutInHand": 26,
+        "quantityInHand": 200,
+        "nutPerHundred": 13
+      },
+      {
+        "food": "poha",
+        "nutInHand": 38.5,
+        "quantityInHand": 50,
+        "nutPerHundred": 77
+      }
+    ],
+    "proteins": [
+      {
+        "food": "ice cream",
+        "nutInHand": 8,
+        "quantityInHand": 14,
+        "nutPerHundred": 57.142857142857146
+      },
+      {
+        "food": "banana",
+        "nutInHand": 5,
+        "quantityInHand": 7,
+        "nutPerHundred": 71.42857142857143
+      },
+      {
+        "food": "jelly",
+        "nutInHand": 3,
+        "quantityInHand": 5,
+        "nutPerHundred": 60
+      },
+      {
+        "food": "milk",
+        "nutInHand": 8,
+        "quantityInHand": 10,
+        "nutPerHundred": 80
+      },
+      {
+        "food": "pascal",
+        "nutInHand": 4,
+        "quantityInHand": 5,
+        "nutPerHundred": 80
+      },
+      {
+        "food": "pasta",
+        "nutInHand": 3,
+        "quantityInHand": 10,
+        "nutPerHundred": 30
+      },
+      {
+        "food": "raisin and almond granola",
+        "nutInHand": 14,
+        "quantityInHand": 135,
+        "nutPerHundred": 10.37037037037037
+      },
+      {
+        "food": "pains au chocolat",
+        "nutInHand": 3.36,
+        "quantityInHand": 48,
+        "nutPerHundred": 7
+      },
+      {
+        "food": "almonds",
+        "nutInHand": 8,
+        "quantityInHand": 30,
+        "nutPerHundred": 26.666666666666668
+      },
+      {
+        "food": "mixed nuts",
+        "nutInHand": 20,
+        "quantityInHand": 100,
+        "nutPerHundred": 20
+      },
+      {
+        "food": "whole west country milk",
+        "nutInHand": 7.92,
+        "quantityInHand": 264,
+        "nutPerHundred": 3
+      },
+      {
+        "food": "cashews",
+        "nutInHand": 3.36,
+        "quantityInHand": 16,
+        "nutPerHundred": 21
+      },
+      {
+        "food": "eggs",
+        "nutInHand": 8,
+        "quantityInHand": 62,
+        "nutPerHundred": 12.903225806451612
+      },
+      {
+        "food": "egg white",
+        "nutInHand": 8,
+        "quantityInHand": 62,
+        "nutPerHundred": 12.903225806451612
+      },
+      {
+        "food": "Flour",
+        "nutInHand": 12,
+        "quantityInHand": 100,
+        "nutPerHundred": 12
+      },
+      {
+        "food": "pickle",
+        "nutInHand": 0.04,
+        "quantityInHand": 4,
+        "nutPerHundred": 1
+      },
+      {
+        "food": "flour",
+        "nutInHand": 6.36,
+        "quantityInHand": 53,
+        "nutPerHundred": 12
+      },
+      {
+        "food": "rice",
+        "nutInHand": 4.8,
+        "quantityInHand": 60,
+        "nutPerHundred": 8
+      },
+      {
+        "food": "carrot",
+        "nutInHand": 0.86,
+        "quantityInHand": 86,
+        "nutPerHundred": 1
+      },
+      {
+        "food": "kiwi",
+        "nutInHand": 0.61,
+        "quantityInHand": 61,
+        "nutPerHundred": 1
+      },
+      {
+        "food": "sugar",
+        "nutInHand": 0,
+        "quantityInHand": 3,
+        "nutPerHundred": 0
+      },
+      {
+        "food": "skimmed west country milk",
+        "nutInHand": 8,
+        "quantityInHand": 200,
+        "nutPerHundred": 4
+      },
+      {
+        "food": "tuna steaks with a little brine",
+        "nutInHand": 9.18,
+        "quantityInHand": 34,
+        "nutPerHundred": 27
+      },
+      {
+        "food": "pineapple",
+        "nutInHand": 2,
+        "quantityInHand": 200,
+        "nutPerHundred": 1
+      },
+      {
+        "food": "poha",
+        "nutInHand": 3.5,
+        "quantityInHand": 50,
+        "nutPerHundred": 7
+      }
+    ],
+    "fats": [
+      {
+        "food": "ice cream",
+        "nutInHand": 8,
+        "quantityInHand": 10,
+        "nutPerHundred": 80
+      },
+      {
+        "food": "pascal",
+        "nutInHand": 2,
+        "quantityInHand": 7,
+        "nutPerHundred": 28.571428571428573
+      },
+      {
+        "food": "dandi",
+        "nutInHand": 50,
+        "quantityInHand": 50,
+        "nutPerHundred": 100
+      },
+      {
+        "food": "pasta",
+        "nutInHand": 30,
+        "quantityInHand": 50,
+        "nutPerHundred": 60
+      },
+      {
+        "food": "raisin and almond granola",
+        "nutInHand": 8,
+        "quantityInHand": 135,
+        "nutPerHundred": 5.925925925925926
+      },
+      {
+        "food": "pains au chocolat",
+        "nutInHand": 10.56,
+        "quantityInHand": 48,
+        "nutPerHundred": 22
+      },
+      {
+        "food": "almonds",
+        "nutInHand": 16,
+        "quantityInHand": 30,
+        "nutPerHundred": 53.333333333333336
+      },
+      {
+        "food": "mixed nuts",
+        "nutInHand": 58,
+        "quantityInHand": 100,
+        "nutPerHundred": 58
+      },
+      {
+        "food": "whole west country milk",
+        "nutInHand": 10.56,
+        "quantityInHand": 264,
+        "nutPerHundred": 4
+      },
+      {
+        "food": "cashews",
+        "nutInHand": 7.68,
+        "quantityInHand": 16,
+        "nutPerHundred": 48
+      },
+      {
+        "food": "eggs",
+        "nutInHand": 6,
+        "quantityInHand": 62,
+        "nutPerHundred": 9.67741935483871
+      },
+      {
+        "food": "egg white",
+        "nutInHand": 0,
+        "quantityInHand": 100,
+        "nutPerHundred": 0
+      },
+      {
+        "food": "Flour",
+        "nutInHand": 2,
+        "quantityInHand": 100,
+        "nutPerHundred": 2
+      },
+      {
+        "food": "pickle",
+        "nutInHand": 0.48,
+        "quantityInHand": 4,
+        "nutPerHundred": 12
+      },
+      {
+        "food": "flour",
+        "nutInHand": 1.06,
+        "quantityInHand": 53,
+        "nutPerHundred": 2
+      },
+      {
+        "food": "rice",
+        "nutInHand": 0,
+        "quantityInHand": 60,
+        "nutPerHundred": 0
+      },
+      {
+        "food": "carrot",
+        "nutInHand": 0.86,
+        "quantityInHand": 86,
+        "nutPerHundred": 1
+      },
+      {
+        "food": "kiwi",
+        "nutInHand": 0.61,
+        "quantityInHand": 61,
+        "nutPerHundred": 1
+      },
+      {
+        "food": "sugar",
+        "nutInHand": 0,
+        "quantityInHand": 100,
+        "nutPerHundred": 0
+      },
+      {
+        "food": "skimmed west country milk",
+        "nutInHand": 0,
+        "quantityInHand": 200,
+        "nutPerHundred": 0
+      },
+      {
+        "food": "tuna steaks with a little brine",
+        "nutInHand": 0,
+        "quantityInHand": 34,
+        "nutPerHundred": 0
+      },
+      {
+        "food": "pineapple",
+        "nutInHand": 0,
+        "quantityInHand": 200,
+        "nutPerHundred": 0
+      },
+      {
+        "food": "poha",
+        "nutInHand": 1,
+        "quantityInHand": 50,
+        "nutPerHundred": 2
+      }
+    ],
+    "bodyWeight": 176,
+    "maintainGainLose": 10,
+    "lifeStyle": 5,
+    "weightTrainingMinutes": 0,
+    "lowCardioMinutes": 0,
+    "highCardioMinutes": 0,
+    "calorie": 2640,
+    "mealNoHand": 4,
+    "caloriePerMeal": 898.3333333333334
+  },
+  "Diet": {
+    "title": "Diet",
+    "password": "Plan",
+    "carbohydrates": [],
+    "proteins": [],
+    "fats": [],
+    "bodyWeight": 165,
+    "maintainGainLose": 10,
+    "lifeStyle": 3,
+    "weightTrainingMinutes": 15,
+    "lowCardioMinutes": 0,
+    "highCardioMinutes": 0,
+    "calorie": 2295
+  },
+  "page": {
+    "title": "page",
+    "password": "four",
+    "carbohydrates": [],
+    "proteins": [],
+    "fats": []
+  }
+}
