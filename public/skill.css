@@ -1,0 +1,432 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    background-color: azure;
+    color: #4a4a4a;
+}
+
+.container {
+    display: grid;
+    grid-template-rows: 80px 676px;
+    background-image: url("img/nutrition_bg.png");
+}
+
+.containerFour {
+    display: grid;
+    grid-template-rows: 80px 676px;
+}
+
+.header {
+    grid-row: 1/2;
+    grid-column:  1/2;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    background-color: aquamarine;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 20px 0px 0px;
+}
+
+.body {
+    grid-row: 2/3;
+    grid-column: 1/2;
+}
+
+.gridLogo {
+    font-size: 35px;
+    grid-column: 1/4;
+    display: flex;
+    justify-content: center;
+}
+
+.gridSignUp {
+    border-radius: 15px;
+    width: 70px;
+    height: 40px;
+    border: 2px solid white;
+    grid-column: 4/5;
+    background-color: aquamarine;
+}
+
+.gridWelcome {
+    border-radius: 15px;
+    width: 70px;
+    height: 40px;
+    border: 2px solid white;
+    grid-column: 5/6;
+    background-color: aquamarine;
+}
+
+.gridLogoTwo {
+    grid-row: 2/3;
+    grid-column: 2/6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 10vw;
+    color: aquamarine;
+}
+
+.gridFormClass {
+    grid-row: 4/7;
+    grid-column: 2/5;
+}
+
+.backButtonTwo {
+    margin: 10px 0px 0px 10px;
+    max-width: 60px;
+    height: auto;
+}
+
+.containerThree {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(7, 1fr);
+}
+
+.gridLogoThree {
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+
+.signInContainer {
+    grid-column: 2/5;
+    grid-row: 2/6;
+    border: 4px solid aquamarine;
+    border-radius: 10px;
+    display: grid;
+    grid-template-rows: repeat(4, 1fr);
+    padding: 20px;
+    justify-content: center;
+}
+
+.mainLogo {
+    grid-column: 2/5;
+    grid-row: 6/7;
+    font-size: 35px;
+    justify-self: center;
+    align-self: center;
+    font-weight: bold;
+}
+
+.welcomeBack {
+    grid-row: 2/4;
+    justify-self: center;
+    align-self: center;
+    display: grid;
+    grid-template-rows: repeat(4, 1fr);
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.greedlogoThree {
+    grid-row: 1/2;
+}
+
+.greeduserInput {
+    grid-row: 1/2;
+    justify-self: center;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    transition: border 0.3s;
+}
+
+.greeduserInput input:focus {
+    border: 2px solid aquamarine;
+    border-radius: 3px;
+    outline: none;
+}
+
+.greedpassInput {
+    grid-row: 2/3;
+    justify-self: center;
+    border-radius: 3px;
+    transition: border 0.3s;
+}
+
+.greedpassInput input:focus {
+    border: 2px solid aquamarine;
+    border-radius: 3px;
+    outline: none;
+}
+
+.greedsignInButton {
+    grid-row: 4/5;
+    justify-self: center;
+}
+
+.greedsignInButton button {
+    font-size: small;
+    color: white;
+    background: #4a4a4a;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 100px;
+    height: 40px;
+}
+
+.greedbaseLine {
+    grid-row: 4/5;
+    display: flex;
+    justify-self: center;
+    align-items: end;
+    font-size: small;
+}
+
+#signingOut {
+    border-radius: 15px;
+    width: 70px;
+    height: 40px;
+    border: 2px solid white;
+    grid-column: 5/6;
+    background-color: aquamarine;
+}
+
+.bodyFour {
+    grid-row: 2/3;
+    grid-column: 1/2;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+#yetDisabled {
+    margin: 0px 20px 30px 0px;
+    align-self: flex-end;
+}
+
+.bodyFour h1,
+.bodyFour h2 {
+    font-size: 20px;
+}
+
+.bodyFour h1 {
+    margin-bottom: 40px;
+}
+
+.bodyFour label {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.bodyFour input {
+    margin-right: 10px;
+    height: 18px;
+}
+
+.bodyFour p {
+    margin: 0px;
+}
+
+.calorieForm {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border: 1px solid black;
+    background-color: beige;
+    padding: 25px;
+}
+
+.calorieForm input {
+    border-radius: 5px;
+    transition: border 0.3s;
+    outline: none;
+}
+
+.calorieForm input:focus-within {
+    border: 2px solid red;
+}
+
+.calorieForm > div {
+    display: flex;
+    flex-direction: row;
+}
+
+.containerOne,
+.containerTwo,
+#high {
+    margin-left: 40px;
+    font-size: small;
+}
+
+.containerOne input,
+.containerTwo input,
+#high input{
+    height: 14px;
+}
+
+.bodyFour button {
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    background-color: aqua;
+    font-weight: bold;
+}
+
+.highFive {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: auto;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    width: 100%;
+    height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+#backFive {
+    align-self: flex-start;
+    margin: 0px 0px 20px 30px;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    background-color: aqua;
+    font-weight: bold;
+}
+
+.macrosContainer {
+    width: 90%;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    row-gap: 4px;
+    padding: 5px;
+    border: 2px solid black;
+    background-color: beige;
+}
+
+.macrosSectionOne,
+.macrosSectionTwo,
+.macrosSectionThree {
+    width: 100%;
+    aspect-ratio: 1 / 1.7;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+    display: flex;
+    flex-direction: column;
+    background-color: azure;
+    display: flex;
+    align-items: center;
+}
+
+.macrosForm {
+    border-top: 1px solid black;
+    display: flex;
+    align-items: center;
+    column-gap: 8px;
+    width: 100%
+}
+
+.macrosForm input[type="number"] {
+    width: 3ch;
+}
+
+.macrosForm p {
+    white-space: nowrap;
+}
+
+.macrosForm input[type="text"] {
+    flex: 1;
+}
+
+.macrosForm button {
+    width: 40px;
+    height: 30px;
+    background-color: #25D366;
+    border-radius: 50%;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.addEntry {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+    height: 2em;
+    line-height: 1em;
+    width: 100%;
+    margin-top: 5px;
+    background-color: #ffffff;
+    border: 2px solid #a855f7;
+    box-shadow: 0 4px 8px rgba(128, 0, 128, 0.2);
+    transition: box-shadow 0.2s ease-in-out;
+    padding: 20px 10px;
+    box-sizing: border-box;
+    overflow: hidden;
+    flex-wrap: nowrap;
+}
+
+.addEntry h1,
+.addEntry p,
+.addEntry span,
+.addEntry button {
+  margin: 0;
+  white-space: normal;        /* Critical to prevent wrapping inside elements */
+  flex-shrink: 0;             /* Prevent shrinking that causes wrap */
+}
+
+.addEntry h1,
+.addEntry p,
+.addEntry span {
+    margin: 0;
+    padding: 0;
+    font-size: inherit;
+}
+
+.addEntry button {
+    font-size: inherit;
+    background: none;
+    border: none;
+    color: red;
+}
+
+.macrosLineOne,
+.macrosLineTwo,
+.macrosLineThree {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 1;
+}
+
+.macrosLineOne,
+.macrosSubLineOne {
+    font-size: smaller;
+}
+
+.macrosLineTwo,
+.macrosLineThree,
+.macrosSubLineTwo,
+.macrosSubLineThree {
+    font-size: small;
+}
+
+.macrosSubLineOne,
+.macrosSubLineTwo,
+.macrosSubLineThree {
+    border-bottom: 1px solid black;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 1;
+}
+
+.macrosLine span {
+    display: inline-block;
+    min-width: 4ch;
+    text-align: right;
+}
+
