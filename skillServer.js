@@ -294,11 +294,12 @@ SkillShareServer.prototype.waitForChanges = function(time) {
   });
 };
 
-const port = 8000;
+const port = process.env.PORT || 3000;
 (async () => {
   const talks = await loadTalks();
   const skillShareServer = new SkillShareServer(talks);
   skillShareServer.start(port);
   console.log(`Listening on port ${port}`);
 })();
+
 
